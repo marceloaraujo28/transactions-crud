@@ -6,7 +6,7 @@ Node.js application built with TypeScript and powered by the Knex query builder.
 
 - Create a new transactions
 - List all transactions
-- List list only one transactio
+- List list only one transaction
 - Sum of a user's transaction values
 
 ## Prerequisites
